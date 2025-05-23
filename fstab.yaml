@@ -1,7 +1,7 @@
 mountpoints:
   /:
-    url: https://docs.google.com/document/d/1F8M7jTb3lDuwHP75oi1go_t5EUWkMXz3TvNG5L36sPY/edit
-    type: google-doc
+    url: https://content.da.live/Suprabhat228/learning-storefront/
+    type: markup
 
 folders:
   /products/: /products/default
